@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:kappuccino/kodeine.git
+[submodule "media/ui/vendor/bootstrap"]
+	path = media/ui/vendor/bootstrap
+	url = https://github.com/twitter/bootstrap.git

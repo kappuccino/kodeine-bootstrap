@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element>
+	<name><![CDATA[D&eacute;faut]]></name>
+	
+	<options>
+
+		<item key="foo" type="onechoice">
+			<name><![CDATA[Foo]]></name>
+			<style><![CDATA[height:30px;]]></style>
+
+			<choice key="v1">
+				<value>value1</value>
+			</choice>
+			<choice key="v2" default="YES">
+				<value>value2</value>
+			</choice>
+		</item>
+
+	</options>
+	
+	
+</element>
